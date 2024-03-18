@@ -1,0 +1,14 @@
+{
+  "name": "docker-node",
+  "version": "1.0.0",
+  "description": "1. Create a folder \"docker-node\" \r 2. Change directory `cd docker-node`\r 3. Open VS code here: `code .`\r 4. Inside VS code: \r     - `npm init` creates package.json\r     - `npm i express` install express and node module gets created.\r     -",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
